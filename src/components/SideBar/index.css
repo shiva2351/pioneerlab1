@@ -1,0 +1,18 @@
+.sidebar {
+  border: 2px solid green;
+  height: 100vh;
+}
+ul {
+  padding-left: 0px;
+  margin-top: 0;
+}
+li {
+  list-style-type: none;
+}
+.side-ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 2px solid red;
+  height: 100%;
+}
